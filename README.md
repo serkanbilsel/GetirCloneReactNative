@@ -14,3 +14,5 @@ Product Details: Implemented a page where users can view the details of any prod
 Add to Cart: Enabled users to add products to their carts and view the current cart total.
 
 Cart Screen: Designed a screen where users can view the items in their carts, adjust quantities, and clear the cart.
+
+Serkan Bilsel
